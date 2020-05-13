@@ -3,7 +3,6 @@ package com.wz.dynamicarray.v1;
 /**
  * @author 隔壁老王
  * @create 2020-05-12 16:58
- * @bilibili https://space.bilibili.com/320299990
  * @description
  */
 //动态数组

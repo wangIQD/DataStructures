@@ -5,7 +5,6 @@ import com.wz.dynamicarray.v4.DynamicArray;
 /**
  * @author 隔壁老王
  * @create 2020-05-12 17:44
- * @bilibili https://space.bilibili.com/320299990
  * @description
  */
 //动态数组测试类
